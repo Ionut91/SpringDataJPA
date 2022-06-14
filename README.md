@@ -1,4 +1,5 @@
-Java Spring Data JPA
+Java Spring Boot
+Data JPA
 
 
 Database - Spring Data JPA
